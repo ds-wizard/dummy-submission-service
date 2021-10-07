@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  dummy-submitter:
+    image: datastewardshipwizard/dummy-submission-service:develop
+    ports:
+      - 8888:80

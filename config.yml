@@ -1,0 +1,11 @@
+service:
+  code: ok
+
+security:
+  enabled: false
+  tokens:
+    - ...
+
+#logging:
+#  level: WARNING
+#  format: ...
